@@ -62,3 +62,16 @@ Nf5 25.Kg2 d6 26.Rh1 Kd7 27.Kf3 Rf8 28.Rbd1 Ne7 29.Rde1 Rh8 30.a4 Nf5 31.Rd1 Kd8
 36.Kf4 Rh4+ 37.Kg5 dxe5 38.Rc1 Rh7 39.Kf6 Nd6 40.h4 Ne4+ 41.Kxe5 Nxf2 42.Rhf1 Nd3+ 43.Kf6 Nxc1 44.Rxc1 Rxh4 45.Kxf7 g5 46.Kf6 g4
 47.Kg5 Rh8 48.Kxg4 Kd7 49.Kf5 Rf8+ 50.Ke4 Kc8 51.Kd3 Rf3+ 52.Kc2 Rf7 53.Kb3 Kb7 54.Kb4 a5+ 55.Kb5 Rf5 56.Rc3 c6# 0-1
 
+[Event "Chessmaster: Grandmaster Edition Rated Game"]
+[Site ""]
+[Date "2014.10.27"]
+[Round ""]
+[White "Marius"]
+[Black "Toby"]
+[TimeControl "1800+30"]
+[Result "1-0"]
+[ECO " "]
+
+1.d4 d5 2.c4 Nf6 3.Nc3 c5 4.dxc5 d4 5.Qa4+ Nc6 6.Nb5 a6 7.Bf4 Bf5 8.Nc7+ Kd7 9.Nf3 e5 10.Nxe5+ Ke7 11.Nxc6+ bxc6 12.Qxc6 Qd7 
+13.Qxa8 Ne8 14.Nd5+ Ke6 15.Nb6 Nc7 16.Qf3 Qd8 17.Qc6+ Bd6 18.cxd6 Qd7 19.Qxd7+ 1-0
+
