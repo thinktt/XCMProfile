@@ -118,9 +118,9 @@ Last_set=
 set_class =32
 board_size=3058
 board_angle=895
-board_rotation=3793
+board_rotation=5224
 WallpaperType=bitmap
-WallpaperFile=D:\Games\CM11\Data\Skin\Default\Scrn_Default.bmp
+WallpaperFile=E:\Games\CM11\Data\Skin\Default\Scrn_Default.bmp
 gradient=0 0
 
 [gameroom]
