@@ -1,0 +1,48 @@
+[Event "Chessmaster: Grandmaster Edition Rated Game"]
+[Site ""]
+[Date "2014.10.25"]
+[Round ""]
+[White "Toby"]
+[Black "Amo"]
+[TimeControl "1800+30"]
+[Result "0-1"]
+[ECO " "]
+
+1.e4 c5 2.Bc4 e6 3.Nf3 Nc6 4.O-O Be7 5.d4 Nf6 6.Nc3 Qa5 7.e5 Ng4 8.h3 cxd4 9.Nxd4 Qxe5 10.hxg4 Nxd4 11.Re1 Qc5 12.Bb3 h5 13.Be3 
+hxg4 14.Qxg4 Qf5 15.Qxd4 Qh5 16.Kf1 b6 17.Qd1 Ba6+ 18.Nb5 Bxb5+ 19.c4 Qxd1 20.Raxd1 Bc6 21.Rd2 Rh1+ 22.Ke2 Rh5 23.f3 Bb4 24.Red1
+Bxd2 25.Rxd2 Rh2 26.Kf2 g5 27.Bxg5 Rh5 28.f4 Rb8 29.g3 Rh2+ 30.Ke3 Rxd2 31.Kxd2 Rc8 32.Ke3 Bh1 33.Bh4 Rc5 34.Kd4 a5 35.g4 Bb7 
+36.g5 Kf8 37.a3 Rf5 38.Bg3 Ba6 39.Kc3 b5 40.Bc2 Rc5 41.Kd4 Rxc4+ 42.Kd3 Rc6 43.Bd1 b4+ 44.Ke4 bxa3 45.bxa3 Rc3 46.Be1 d5+ 47.Kd4
+Rxa3 48.Bd2 Rd3+ 49.Ke5 Rxd2 50.Bh5 Be2 51.Bxe2 Rxe2+ 0-1
+
+[Event "Chessmaster: Grandmaster Edition Rated Game"]
+[Site ""]
+[Date "2014.10.25"]
+[Round ""]
+[White "Toby"]
+[Black "Risa"]
+[TimeControl "1800+30"]
+[Result "0-1"]
+[ECO " "]
+
+1.e4 c5 2.Bc4 e6 3.d3 h6 4.Be3 Qa5+ 5.Qd2 Qxd2+ 6.Nxd2 Nc6 7.Ngf3 Nb4 8.Bb3 b5 9.a3 Nc6 10.c4 Bb7 11.cxb5 Na5 12.Rc1 Bd6 13.Bxc5
+Rc8 14.d4 Bf4 15.O-O Nf6 16.Rfe1 Nxb3 17.Rc2 Bxd2 18.Nxd2 Nxd2 19.Rxd2 Nxe4 20.Rde2 Nxc5 21.Rc1 O-O 22.Rxc5 e5 23.Rcxe5 Rc1+ 
+24.Re1 Rfc8 25.Kf1 Kh7 26.Re7 Bd5 27.Rxd7 Bc4+ 28.Kg1 Rxe1# 0-1
+
+[Event "Chessmaster: Grandmaster Edition Rated Game"]
+[Site ""]
+[Date "2014.10.26"]
+[Round ""]
+[White "Toby"]
+[Black "Josh - Age 6"]
+[TimeControl "1800+30"]
+[Result "1/2-1/2"]
+[ECO " "]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 Nf6 5.Bc4 c6 6.O-O e6 7.d3 Bd6 8.h3 b5 9.Bb3 Qd8 10.d4 b4 11.Na4 Ba6 12.Re1 Nbd7 13.c3 Bb5 
+14.a3 bxa3 15.Rxa3 Bxa3 16.bxa3 Qe7 17.Bf4 Nd5 18.Bxd5 cxd5 19.Be5 Nxe5 20.Nxe5 Qxa3 21.Nc5 Qxc3 22.Re3 Qb2 23.Rb3 Qe2 24.Qxe2 
+Bxe2 25.Rb7 O-O 26.Rb2 Rab8 27.Rxe2 Rfc8 28.Ra2 f6 29.Ned7 Rb1+ 30.Kh2 Rc7 31.g3 e5 32.Nf8 exd4 33.Nfe6 Re7 34.Nxd4 h5 35.h4 Rc1
+36.Ncb3 Rf1 37.Kg2 Rb1 38.Ra5 Rd1 39.Rxd5 Re8 40.Rd7 a5 41.Ra7 a4 42.Rxa4 Ree1 43.Ra7 Rd3 44.Rb7 Kh8 45.Nf5 g5 46.hxg5 fxg5 
+47.Nbd4 h4 48.g4 Re4 49.f3 Rd2+ 50.Kf1 Rexd4 51.Nxd4 h3 52.Nf5 Rd1+ 53.Kf2 h2 54.Ng3 Rg1 55.Rb2 Kg7 56.Re2 Rxg3 57.Re1 Rg1 
+58.Rxg1 hxg1=Q+ 59.Kxg1 Kf8 60.Kf2 Kf7 61.Ke3 Ke7 62.Ke4 Ke6 63.f4 gxf4 64.Kxf4 Kf6 65.g5+ Ke6 66.Ke4 Kf7 67.Kf5 Kg7 68.g6 Kg8 
+69.Kf6 Kf8 70.Kg5 Kg7 71.Kf5 Kg8 72.Kf6 Kh8 73.g7+ Kg8 74.Kg6 1/2-1/2
+
