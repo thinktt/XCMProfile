@@ -118,9 +118,9 @@ Last_set=
 set_class =32
 board_size=3058
 board_angle=895
-board_rotation=5224
+board_rotation=1605
 WallpaperType=bitmap
-WallpaperFile=E:\Games\CM11\Data\Skin\Default\Scrn_Default.bmp
+WallpaperFile=D:\Games\CM11\Data\Skin\Default\Scrn_Default.bmp
 gradient=0 0
 
 [gameroom]
@@ -342,8 +342,8 @@ vector_lightsq_green=220
 vector_lightsq_blue=220
 vector_board_x=0
 vector_board_y=0
-board_offset_x=233
-board_offset_y=56
+board_offset_x=513
+board_offset_y=76
 MultimediaGameKidsRoom=0 0 0 0 0 0
 MultimediaGameClassroom=1142 80 1392 432 0 0
 Board=0 0 1434 801 0 0
