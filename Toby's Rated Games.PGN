@@ -75,3 +75,34 @@ Nf5 25.Kg2 d6 26.Rh1 Kd7 27.Kf3 Rf8 28.Rbd1 Ne7 29.Rde1 Rh8 30.a4 Nf5 31.Rd1 Kd8
 1.d4 d5 2.c4 Nf6 3.Nc3 c5 4.dxc5 d4 5.Qa4+ Nc6 6.Nb5 a6 7.Bf4 Bf5 8.Nc7+ Kd7 9.Nf3 e5 10.Nxe5+ Ke7 11.Nxc6+ bxc6 12.Qxc6 Qd7 
 13.Qxa8 Ne8 14.Nd5+ Ke6 15.Nb6 Nc7 16.Qf3 Qd8 17.Qc6+ Bd6 18.cxd6 Qd7 19.Qxd7+ 1-0
 
+[Event "Chessmaster: Grandmaster Edition Rated Game"]
+[Site ""]
+[Date "2014.10.27"]
+[Round ""]
+[White "Toby"]
+[Black "Berry"]
+[TimeControl "1800+30"]
+[Result "1-0"]
+[ECO " "]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4 Bc5 5.d3 h6 6.h3 Bb4 7.O-O O-O 8.Bd2 Bxc3 9.Bxc3 Kh8 10.Nxe5 Nxe5 11.Bxe5 Qe7 12.Bc3 Rb8 
+13.Re1 d6 14.Qd2 h5 15.Bb3 a6 16.Rad1 Kg8 17.d4 b5 18.a4 b4 19.Bxb4 Kh8 20.Ba3 Be6 21.e5 Ne4 22.Rxe4 Bc8 23.Rde1 Qd8 24.d5 Rg8 
+25.e6 fxe6 26.dxe6 Qe7 27.Qe2 g6 28.Qe3 Kh7 29.h4 c5 30.Qg5 Qc7 31.e7 Re8 32.Bf7 Bf5 33.R4e2 Qd7 34.Bxe8 Qxe8 35.b3 Rc8 36.Bb2 
+c4 37.Re3 c3 38.Bxc3 Rc7 39.Qf6 Rxc3 40.Qxc3 g5 41.hxg5 Be4 42.Rxe4 d5 43.Rf4 a5 44.Rf8 d4 45.Qxd4 Qxf8 46.exf8=Q h4 47.Qfg7# 
+1-0
+
+[Event "Chessmaster: Grandmaster Edition Rated Game"]
+[Site ""]
+[Date "2014.10.27"]
+[Round ""]
+[White "Marius"]
+[Black "Toby"]
+[TimeControl "1800+30"]
+[Result "1-0"]
+[ECO " "]
+
+1.d4 d5 2.Nf3 c5 3.c4 Nf6 4.Nc3 Nc6 5.Nxd5 Nxd5 6.cxd5 Qxd5 7.e3 a6 8.Qa4 Bd7 9.Bc4 Qd6 10.Qb3 Na5 11.Bxf7+ Kd8 12.Qd5 Qxd5 
+13.Bxd5 Bc6 14.Bxc6 Nxc6 15.Bd2 e5 16.d5 Ne7 17.Nxe5 Ke8 18.d6 Nc6 19.d7+ Ke7 20.Nxc6+ bxc6 21.Ba5 Kxd7 22.Bc3 Rg8 23.O-O Bd6 
+24.Rad1 Ke6 25.f4 g6 26.Kh1 Rgd8 27.g4 Ke7 28.Rd2 a5 29.f5 Be5 30.Rxd8 Rxd8 31.Bxe5 gxf5 32.Bc3 fxg4 33.Bf6+ Kd7 34.Rd1+ Ke6 
+35.Bxd8 a4 36.b3 c4 37.bxc4 Kf5 38.c5 Ke4 39.Rd4+ Kf3 40.Bg5 h5 41.e4 g3 42.e5 g2+ 43.Kg1 a3 44.e6 h4 45.h3 Kg3 46.Rd3# 1-0
+
