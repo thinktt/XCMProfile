@@ -216,3 +216,21 @@ Kb4 59.Kg5 Kc4 60.Kxh4 Kc5 61.Kg5 Kd6 62.Kg6 Ke7 63.Kg7 Kd6 64.h4 Ke5 65.h5 Kf4 
 24.Kf2 Rc2+ 25.Re2 Qh4+ 26.g3 Rxe2+ 27.Kxe2 Qxg3 28.Kf1 f5 29.Bg2 Qf4+ 30.Rf3 Qc1+ 31.Kf2 fxe4 32.Rf7 e3+ 33.Ke2 Qc2+ 34.Kf3 
 Qf2+ 35.Kg4 h5+ 36.Kg5 Qg3# 0-1
 
+[Event "Chessmaster: Grandmaster Edition Rated Game"]
+[Site ""]
+[Date "2014.11.24"]
+[Round ""]
+[White "Toby"]
+[Black "Mark"]
+[TimeControl "1800+30"]
+[Result "1-0"]
+[ECO " "]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 c6 5.g3 Qa5 6.Bd2 O-O 7.Bg2 Qf5 8.O-O Qg4 9.Qc1 d6 10.Bh6 Nh5 11.Bxg7 Kxg7 12.Qg5 Nf6 13.Qxg4 
+Nxg4 14.h3 Nh6 15.e4 Be6 16.d5 cxd5 17.cxd5 Bd7 18.Rac1 Rc8 19.Rc2 b6 20.Rfc1 Na6 21.a3 Rc5 22.Re2 Kg8 23.e5 Rxc3 24.Rxc3 Nf5 
+25.e6 fxe6 26.dxe6 Bb5 27.Re1 Rf8 28.Bf1 Bxf1 29.Kxf1 Nc5 30.b4 Na4 31.Rc2 Nb2 32.Rxb2 Rc8 33.Rbb1 h5 34.Rbc1 Rf8 35.h4 Ra8 
+36.Rc7 Rd8 37.Rec1 Kg7 38.Rxa7 Re8 39.Rac7 Ra8 40.R1c3 d5 41.Ke2 d4 42.Rc8 dxc3 43.Rxa8 c2 44.Kd2 Nd6 45.Kxc2 Nf5 46.Ra7 Kf6 
+47.Rb7 Nd6 48.Rxb6 Ne4 49.Kd3 Nxf2+ 50.Ke2 Ne4 51.Rc6 Nxg3+ 52.Ke1 Nf5 53.b5 Nd6 54.b6 Nb7 55.a4 Kf5 56.a5 Nd8 57.a6 Nxc6 58.b7 
+Kxe6 59.a7 Nxa7 60.b8=Q Nc6 61.Qb6 Kd5 62.Qb5+ Kd6 63.Kd2 Kc7 64.Kd3 Kd6 65.Nd4 Nxd4 66.Kxd4 Ke6 67.Qg5 Kd6 68.Qxg6+ e6 69.Qxh5 
+Kc6 70.Qc5+ Kb7 71.Ke5 Ka6 72.Kxe6 Kb7 73.Kd7 Ka6 74.Qb4 Ka7 75.Kc7 Ka8 76.Qb7# 1-0
+
